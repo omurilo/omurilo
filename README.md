@@ -1,14 +1,16 @@
 ### Hi there 👋, I'm Murilo, Frontend Developer at work and Fullstack Developer in his spare time.
 
-#### You can find me on: [![Twitter][1.1]][1] [![Linked.in][1.2]][2]
+#### You can find me on: 
+[![Twitter URL][twitter-icon]][twitter-link]<br>
+[![Linked.in][linkedin-icon]][linkedin-link]
 
 <!-- Icons -->
-[1.1]: https://img.icons8.com/color/30/000000/twitter.png (Twitter icon)
-[1.2]: https://img.icons8.com/color/30/000000/linkedin.png (Linkedin icon)
+[twitter-icon]: https://img.shields.io/twitter/url?label=AnonMD_&style=social&url=https%3A%2F%2Ftwitter.com%2FAnonMD_ (Twitter icon)
+[linkedin-icon]: https://img.shields.io/twitter/url?label=Murilo%20Henrique&logo=linkedin&style=social&url=https%3A%2F%2Flinedin.com%2Fin%2Fomurilo (Linkedin icon)
 
 <!-- Social media accounts -->
-[1]: https://twitter.com/AnonMD_
-[2]: https://linkedin.com/in/omurilo
+[twitter-link]: https://twitter.com/AnonMD_
+[linkedin-link]: https://linkedin.com/in/omurilo
 
 - 🌱 I’m currently learning Typescript
 - 👯 I’m looking to collaborate on max of projects to change's people life.
