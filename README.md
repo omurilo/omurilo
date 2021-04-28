@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Murilo, Frontend Developer at work and Fullstack Developer in his spare time.
+### Hi there 👋, I'm Murilo, Fullstack Developer with Javascript in work and student about any code language and patterns. 
 
 #### You can find me on: 
 [![Twitter URL][twitter-icon]][twitter-link]<br>
