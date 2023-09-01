@@ -5,14 +5,14 @@
 [![Linked.in][linkedin-icon]][linkedin-link]
 
 <!-- Icons -->
-[twitter-icon]: https://img.shields.io/twitter/url?label=AnonMD_&style=social&url=https%3A%2F%2Ftwitter.com%2FAnonMD_ (Twitter icon)
+[twitter-icon]: https://img.shields.io/twitter/url?label=oPequiDuGoias&style=social&url=https%3A%2F%2Ftwitter.com%2Fopequidugoias (Twitter icon)
 [linkedin-icon]: https://img.shields.io/twitter/url?label=Murilo%20Henrique&logo=linkedin&style=social&url=https%3A%2F%2Flinedin.com%2Fin%2Fomurilo (Linkedin icon)
 
 <!-- Social media accounts -->
-[twitter-link]: https://twitter.com/AnonMD_
+[twitter-link]: https://twitter.com/opequidugoias
 [linkedin-link]: https://linkedin.com/in/omurilo
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on max of projects to change's people life.
 - ⚡ Fun fact: I'm Bachelor of Chemistry
 
