@@ -1,15 +1,15 @@
-### Hi there 👋, I'm Murilo, Fullstack Developer with Javascript in work and student about any code language and patterns. 
+### Hi there 👋, I'm Murilo, Platform Engineer in work and student about any code language, architecture, k8s and IaC.
 
-#### You can find me on: 
-[![Twitter URL][twitter-icon]][twitter-link]<br>
+#### You can find me on:
+[![BlueSky][bluesky-icon]][bluesky-link]
 [![Linked.in][linkedin-icon]][linkedin-link]
 
 <!-- Icons -->
-[twitter-icon]: https://img.shields.io/twitter/url?label=oPequiDuGoias&style=social&url=https%3A%2F%2Ftwitter.com%2Fopequidugoias (Twitter icon)
+[bluesky-icon]: https://img.shields.io/twitter/url?label=omurilo.dev&logo=bluesky&style=social&url=https%3A%2F%2Fbsky.app%2Fprpfile%2Fomurilo.dev (Bluesky icon)
 [linkedin-icon]: https://img.shields.io/twitter/url?label=Murilo%20Henrique&logo=linkedin&style=social&url=https%3A%2F%2Flinedin.com%2Fin%2Fomurilo (Linkedin icon)
 
 <!-- Social media accounts -->
-[twitter-link]: https://twitter.com/opequidugoias
+[bluesky-link]: https://bksy.app/profile/omurilo.dev
 [linkedin-link]: https://linkedin.com/in/omurilo
 
 - 🌱 I’m currently learning Go
